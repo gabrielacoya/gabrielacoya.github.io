@@ -9,6 +9,25 @@ body{
 	background:#292929;
 
 }
+
+h1 {
+	font-size:66px;
+	text-transform:uppercase;
+	text-decoration: none;
+	color: #ddd;
+	outline: none;
+	text-indent:5px;
+	z-index: 10;
+	display: block;
+	float: right;
+	height: 66px;
+	line-height: 66px;
+	position: relative;
+	overflow: hidden;
+	padding-right:10px;
+	
+}
+
 .slidingMenu {
 	position: absolute;
 	height:410px;
